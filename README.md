@@ -1,7 +1,7 @@
 # Msc project
 
 ### Usage:
-Clone this project, and run
+Clone this project, and run 
 
 `python setup.py install`
 
