@@ -26,5 +26,3 @@ database - database backup
 
 ### test chatbot
 `rasa x`
-
-
