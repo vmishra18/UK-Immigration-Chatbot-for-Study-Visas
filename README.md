@@ -5,7 +5,6 @@ Clone this project, and run
 
 `python setup.py install`
 
-
 ### Overview of the files
 data/core/ - contains stories
 
